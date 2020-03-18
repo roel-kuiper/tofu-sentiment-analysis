@@ -1,0 +1,89 @@
+﻿Precipitated Calcium Carbonate
+PCC stands for Precipitated Calcium Carbonate—also known as purified, refined or synthetic calcium carbonate. It has the same chemical formula as other types of calcium carbonate, such as limestone, marble and chalk: CaCO3. The calcium, carbon and oxygen atoms can arrange themselves in three different ways, to form three different calcium carbonate minerals. The most common arrangement for both precipitated and ground calcium carbonates is the hexagonal form known as calcite. A number of different calcite crystal forms are possible: scalenohedral, rhombohedral and prismatic. Less common is aragonite, which has a discrete or clustered needle orthorhombic crystal structure. Rare and generally unstable is the vaterite calcium carbonate mineral.
+
+Calcium carbonates, including PCC, are considered to be non-toxic. In the U.S., the Food and Drug Administration has Affirmed calcium carbonate to be GRAS (Generally Recognized As Safe). As long as the PCC meets certain purity requirements, it can be used as a direct food additive, as a pharmaceutical or as an indirect additive in paper products that come in contact with food. Similar acceptances and approvals exist around the world where PCCs are widely used in these applications. Click on the Contact Us link below to inquire about specific regulations covering the use of PCCs in these health-related uses, or on the MSDS link to download a Material Safety Data Sheet covering a Specialty Minerals Inc.’s (SMI’s) PCC product.
+ 
+When Did Precipitated Calcium Carbonate (PCC) Manufacture Begin?
+PCCs have been made commercially for a long time—since 1841. The first producer was the English company, John E. Sturge Ltd., which treated the residual calcium chloride from their potassium chlorate manufacture with soda ash and carbon dioxide to form what they called precipitated chalk. In 1898, a new factory was built in Birmingham using the milk of lime process, which is described in more detail below. This PCC operation is now part of the Performance Minerals group of SMI.
+
+PCC production in the U.S. dates from 1938, when the C.K. Williams Company in Adams, Massachusetts, began to make PCC using the limestone from their adjacent mine. This plant was acquired by Pfizer in 1962, and became part of the Performance Minerals group of SMI on the formation of our parent, Minerals Technologies Inc., in 1992.
+ 
+
+ 
+How Is Precipitated Calcium Carbonate (PCC) Made?
+
+Almost all PCC is made by direct carbonation of hydrated lime, known as the milk of lime process. The milk of lime process is simple in concept:
+    • Mine high purity calcium carbonate rock.
+
+    • Crush the rocks to the particle size needed for processing – small stones or powder.
+
+    • Separate some of the impurities from the crushed rock.
+
+    • Calcine (heat) in a kiln to 1850° F, which takes the calcium carbonate apart, forming lime (CaO) and carbon dioxide gas (CO2). The carbon dioxide can be captured for reuse. CaCO3 + Heat →  CaO + CO2 ↑    
+
+    • Add the lime to water to form calcium hydroxide (hydrated lime or slake).
+CaO + H2O → Ca(OH)2       
+
+    • Separate out additional impurities from the slaked lime.
+
+    • Combine the captured carbon dioxide with the slaked lime. Calcium carbonate reforms, and since it is insoluble in water, precipitates out.
+Ca(OH)2 + CO2 → CaCO3 ↓ + H2O 
+
+    • Separate additional impurities and grit from the PCC slurry. 
+
+    • If the PCC is to be used in a paper mill or shipped to a latex paint plant, the lower solids slurry may be used as is, or processed to bring up the solids level, then tested before transfer or shipment.
+
+    • If the PCC is to be used as a dry product, the slurry is dewatered, dried, milled, packaged and tested.
+  
+ 
+While the process is simple on a laboratory scale, making precipitated calcium carbonates commercially on a large scale requires a great deal of process control and process technology to assure  the right size, uniformity, shape, surface area and surface chemistry. This body of PCC technology developed by Specialty Minerals Research, is what makes SMI PCCs outstanding in quality and consistency.
+
+What Is Precipitated Calcium Carbonate (PCC) Made From?
+
+PCC is generally made from a high purity calcium carbonate rock called limestone. Specialty Minerals Inc. (SMI) uses high quality limestone sources for its PCC products, including some from the SMI limestone mine in Adams, Massachusetts, which has been in operation for more than 150 years.
+
+This limestone deposit is the result of a very thick layer of prehistoric sea animal shells and skeletons being laid down on the ocean floor. These shells and skeletons were largely composed of calcium carbonate. Over a period of five hundred million years this deposit was under high temperature and high pressure, and the deposit changed to a coarsely crystallized limestone. All of the organic matter that was in the deposit was removed by oxidation, a process called diagenesis.
+
+If this kind of geological process continues a very long time, the crystals become very small, forming marble, an extremely hard form of calcium carbonate. If the time, temperature and/or pressures are not great, the seabed only partially metamorphoses, and the result is very soft chalk, such as that forming the White Cliffs of Dover in England. In chalks, remnants of animal shells and skeletons are often still seen.
+
+Why Is All That Processing Done?
+
+Two reasons. First, there are several points in the PCC process where the calcium carbonate can be purified, removing much of the rock from the deposit that is not calcium carbonate—there are always some impurities in any limestone deposit. These include feldspar and other silicaceous minerals, as well as heavy metals.
+
+Second, the PCC process allows SMI to grow crystals of different shapes. The particle formed is dictated by the control of reaction time, temperature, agitation, pressure, rate of carbon dioxide addition, and post-crystallization processing. These shapes—clustered needles, cubes, prisms, rhombohedrons—have different physical properties such as powder density, surface area and oil absorption, which give them outstanding performance in many applications where ground calcium carbonate does not perform as well. Scanning electron micrographs (SEMs) of some of the these shapes are shown on this page. 
+
+The precipitation process also allows the growing of very fine particles, down to nanometers or hundredths of a micron—much finer than can be obtained by just grinding the limestone rock. These ultrafine nano PCCs have special applications where high performance is required. Click here to learn more about nano PCCs, which SMI has been manufacturing for more than 25 years.
+
+What Is Unique About A Precipitated Calcium Carbonate?
+
+The different shapes allow PCC to act as a functional additive in sealants, adhesives, plastics, rubber, inks, paper, pharmaceuticals, nutritional supplements and many other demanding applications. A formulator can choose a shape, and the physical properties that result from that shape, that gives the best performance in the end use.
+
+In the PCC process, products can be made with very small sizes, with high surface areas, high oil absorptions, and/or with different powder bulk densities— from ultra-low  to super-high powder densities.
+
+Why Are Some PCCs Coated?
+
+PCCs are often coated with a low percentage (1-3 percent) of a fatty acid, such as stearic acid, or other organic material, for use in non-aqueous systems. These coatings increase the dispersibility of the PCC in the polymer or solvent as well as its compatibility with the polymer or solvent, which in turn maximizes the performance and efficiency of the PCC.
+
+The choice of coating depends on the type of polymer the PCC will be used in and the performance desired. As polymers vary widely in polarity and solubility constants, different organics are chosen to give the best compatibility and/or the best balance of properties.
+
+How Does Precipitated Calcium Carbonate Differ From Ground Calcium Carbonate (GCC)?
+
+In chemical composition, they are the same. PCC is purer than the limestone from which it is made, and is lower in silica and lead.
+
+PCC’s shape and size are different from that of  ground calcium carbonate (GCC). Under high magnification, GCC is seen to be irregularly rhombohedral in shape. The PCC crystal shape depends on the product, and the particles are more uniform and regular.
+
+The distribution of particle sizes in a GCC is much broader than for a PCC of the same size—that is, there are many more large particles and many more small particles than in a PCC, and the size of the largest of the particles (the "top size") is much greater for a GCC than for a PCC. The lower top size of a PCC gives better impact resistance in plastics than with a GCC. The narrower particle size distribution allows the generation of high oil absorptions, useful in certain applications.
+
+These differences can be quickly seen in  these photos of a PCC and a GCC of the same median particle size, 0.7 microns.
+ 
+
+Specialty Minerals Precipitated Calcium Carbonates
+
+SMI is the world’s largest manufacturer of PCCs, with an output of over 4 million tons of PCC each year.
+
+Some of our PCC products for paper and paperboard filling and coating include Opacarb®, Megafil®, and Velacarb® precipitated calcium carbonates.
+
+For food, nutritional supplements, pharmaceutical and personal care products, the series of eight ViCALity® USP/FCC precipitated calcium carbonates and five CalEssence®  ultra low lead PCCs are manufactured in Adams, Massachusetts, in the U.S. Five SturcalTM and Calopake® EP PCC healthcare grades are manufactured in Birmingham, U.K.
+
+A wide variety of polymeric and water-based industrial products use Albacar®, Albaglos®, Super-Pflex®, and Tuffgard®  PCCs, as well as the nano PCCs, Ultra-Pflex®, Multifex-MM® and a series of Thixo-Carb® PCCs, which come from Adams, Massachusetts, in the U.S. The Calopake® PCC and Calofort® nano PCCs come from SMI’s Birmingham plant.
+

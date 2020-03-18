@@ -1,0 +1,47 @@
+﻿Northland Power - Technologies
+Power Generation Technologies
+Northland Power develops and operates clean and green power producing facilities using technologies that convert four energy sources to electricity:
+
+    • THERMAL
+
+    • WIND
+
+    • SOLAR
+
+    • HYDRO
+
+All Northland energy sources are sustainable over the long term and address growing environmental concerns.
+Northland has fully developed in-house engineering expertise, so we are ideally positioned to evaluate and pursue new power generation technologies as they become commercially feasible.
+Thermal Generation—using natural gas and biomass
+Natural Gas
+Northland Power uses natural gas turbine technology to produce large amounts of electricity in an efficient, reliable, and environmentally responsible manner.
+We design and own facilities that generate power in one of three modes:
+    • Simple Cycle Gas Turbine
+    • Combined Cycle Gas Turbine
+    • Cogeneration
+Simple Cycle Gas Turbine (SCGT) plants use thermal energy released from the combustion of natural gas to spin a turbine, which in turn drives an electrical generator to produce electricity. SCGT plants can be started or stopped quickly in response to changing demand, which makes SCGT ideal for peaking plants which are designed to balance supply from intermittent power sources, such as wind. System operators also use SCGT sources to protect against unexpected outages at other generating stations and to overcome transmission bottlenecks or constraints.
+Combined Cycle Gas Turbine (CCGT) technology produces electrical energy in two stages:
+    1. A natural gas-fuelled turbine turns a generator.
+    2. A heat recovery system captures waste heat from the turbine exhaust and creates steam to drive a steam turbine to produce additional electricity.
+CCGT plants are more efficient than SCGT plants, but more expensive to build. CCGT projects are best suited for extended or continuous use, rather than being required to start up quickly or often.
+Cogeneration uses CCGT technology and then further uses the steam produced in an industrial process or as a heat source. This typically requires the plant be located close to a steam host that has contracted to off-take the steam.
+Cogeneration mode is the most efficient form of gas-fired generation, but is more costly to build than SCGT or CCGT.
+Biomass Steam
+In addition to natural gas, Northland Power burns biomass (mainly wood waste such as bark and sawdust) in boilers to create steam. The steam drives turbines to produce electricity.
+Biomass technology uses a totally renewable fuel source, often from forestry and wood-processing waste. The waste would otherwise be discarded, releasing greenhouse gases into the atmosphere and contaminants into ground water.
+Eliminating these harmful effects further increases the environmental benefits of biomass steam as an energy source.
+Wind
+Wind energy as a source of electric power is growing in use around the world. Because wind generates no greenhouse gasses in operation, power authorities are increasingly integrating it as part of their generation portfolios to reduce reliance on fossil fuel power plants.
+Utility-scale onshore wind farms use large wind turbines; the average size of onshore turbines being manufactured today is approximately 2.5 – 5 MW, with blades of approximately 75 metres long. Three large blades rotate a shaft in the nacelle. Shaft power is transferred to a generator to produce electricity, which is fed through a collector system to a transformer station connected to the power grid.
+Offshore wind energy is produced by wind farms constructed in bodies of water. Higher wind speeds are available offshore than on land, resulting in a higher capacity of electricity generation per amount capacity installed.
+Solar
+The use of solar power, using ground- or roof-mounted photovoltaic arrays, is growing in Canada and around the world. Like other forms of green energy, solar power produces no greenhouse gases in operation. Solar panels, composed of connected photovoltaic (PV) cells, capture sunlight and convert it to a DC current; it is then flowed to an inverter which converts the electricity into usable AC energy which is then fed into the grid.
+Northland Power operate 13-10 MW ground-mounted solar projects in Ontario.
+Hydro - Pumped storage
+Pumped Storage technology uses combination pumps/turbines to pump water from a lower reservoir to an upper reservoir for storage. It then generates electricity similar to a standard hydro project as the water is released through the turbines and flows down into the lower reservoir.
+Water is typically recycled between reservoirs at least once daily. Pumped storage effectively works like a very large storage battery, with the elevated water acting as the source of stored energy.
+Pumped storage is attractive because:
+    • It can serve as a peaking power plant by generating electricity when prices are high (typically during the day) and consuming electricity to drive the pump when prices are low.
+    • It can respond to short-term fluctuations in electricity demand/supply balance or stabilize the electrical grid.
+    • It enables rapid responses to requests for energy generation and can be used to smooth intermittent energy delivery from sources like wind and solar.
+

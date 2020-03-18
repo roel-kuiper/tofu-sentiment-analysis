@@ -1,0 +1,20 @@
+﻿Geothermal Basics
+Geothermal energy - geo (earth) + thermal (heat)  - is heat energy from the earth. 
+                   What isn’t a geothermal resource?
+Geothermal resources are reservoirs of hot water that exist at varying temperatures and depths below the Earth's surface. Mile-or-more-deep wells can be drilled into underground reservoirs to tap steam and very hot water that can be brought to the surface for use in a variety of applications, including electricity generation, direct use, and heating and cooling. In the United States, most geothermal reservoirs are located in the western states.
+                   Benefits of Geothermal Energy
+Renewable—Through proper reservoir management, the rate of energy extraction can be balanced with a reservoir's natural heat recharge rate.
+Baseload—Geothermal power plants produce electricity consistently, running 24 hours per day / 7 days per week, regardless of weather conditions.
+Domestic—U.S. geothermal resources can be harnessed for power production without importing fuel.
+Small Footprint—Geothermal power plants are compact; using less land per GWh (404 m2) than coal (3642 m2) wind (1335 m2) or solar PV with center station (3237 m2).*
+Clean—Modern closed-loop geothermal power plants emit no greenhouse gasses; life cycle GHG emissions (50 g CO2 eq/kWhe) are four times less than solar PV, and six to 20 times lower than natural gas. Geothermal power plants consume less water on average over the lifetime energy output than the most conventional generation technologies.**
+Geothermal energy videos and animations:
+                • Energy 101: Geothermal Energy
+                • How a Geothermal Power Plant Works
+                • How an Enhanced Geothermal System Works
+The Geothermal Technologies Office focuses on harnessing this clean, domestic natural resource to generate electricity by accelerating near-term hydrothermal and low-temperature adoption and boldly pursuing EGS as a transformative player by creating a commercial pathway to large-scale, reproducible systems.
+                   Hydrothermal systems
+                   Low-Temperature and Coproduced resources
+                   Enhanced Geothermal Systems (EGS)
+The Energy Department's project portfolio continues to explore novel technologies in these areas in order to accelerate the adoption of geothermal energy production in America.
+
