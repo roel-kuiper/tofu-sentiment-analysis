@@ -1,0 +1,22 @@
+﻿The Basics of wind energy
+What is wind energy?
+Wind energy (or wind power) refers to the process of creating electricity using the wind, or air flows that occur naturally in the earth’s atmosphere. Modern wind turbines are used to capture kinetic energy from the wind and generate electricity.
+There are three main types of wind energy:
+    • Utility-scale wind: Wind turbines that range in size from 100 kilowatts to several megawatts, where the electricity is delivered to the power grid and distributed to the end user by electric utilities or power system operators.
+    • Distributed or "small" wind:  Single small wind turbines below 100 kilowatts that are used to directly power a home, farm or small business and are not connected to the grid.
+    • Offshore wind: Wind turbines that are erected in large bodies of water, usually on the continental shelf. Offshore wind turbines are larger than land-based turbines and can generate more power.
+How wind turbines work
+When the wind blows past a wind turbine, its blades capture the wind’s kinetic energy and rotate, turning it into mechanical energy. This rotation turns an internal shaft connected to a gearbox, which increases the speed of rotation by a factor of 100. That spins a generator that produces electricity.
+Typically standing at least 80 meters (262 feet) tall, tubular steel towers support a hub with three attached blades and a “nacelle,” which houses the shaft, gearbox, generator, and controls. Wind measurements are collected, which direct the turbine to rotate and face the strongest wind, and the angle or "pitch" of its blades is optimized to capture energy.
+A typical modern turbine will start to generate electricity when wind speeds reach six to nine miles per hour (mph), known as the cut-in speed. Turbines will shut down if the wind is blowing too hard (roughly 55 miles an hour) to prevent equipment damage.
+Over the course of a year, modern turbines can generate usable amounts of electricity over 90 percent of the time. For example, if the wind at a turbine reaches the cut-in speed of six to nine mph, the turbine will start generating electricity. As wind speeds increase so does electricity production.
+Another common measure of wind energy production is called capacity factor. This measures the amount of electricity a wind turbine produces in a given time period (typically a year) relative to its maximum potential.
+For example, suppose the maximum theoretical output of a two megawatt wind turbine in a year is 17,520 megawatt-hours (two times 8,760 hours, the number of hours in a year). However, the turbine may only produce 7,884 megawatt-hours over the course of the year because the wind wasn’t always blowing hard enough to generate the maximum amount of electricity the turbine was capable of producing. In this case, the turbine has a 45 percent (7,884 divided by 17,520) capacity factor. Remember—this does not mean the turbine only generated electricity 45 percent of the time. Modern wind farms often have capacity factors greater than 40 percent, which is close to some types of coal or natural gas power plants.
+Windmills vs. Wind Turbines
+Sometimes people use the terms “windmill” and “wind turbine” interchangeably, but there are important differences. People have been using windmills for centuries to grind grain, pump water, and do other work. Windmills generate mechanical energy, but they do not generate electricity. In contrast, modern wind turbines are highly evolved machines with more than 8,000 parts that harness wind's kinetic energy and convert it into electricity.
+What is a wind farm?
+Oftentimes a large number of wind turbines are built close together, which is referred to as a wind project or wind farm. A wind farm functions as a single power plant and sends electricity to the grid.
+How wind energy gets to you
+The turbines in a wind farm are connected so the electricity they generate can travel from the wind farm to the power grid. Once wind energy is on the main power grid, electric utilities or power operators will send the electricity to where people need it.
+Smaller transmission lines, called distribution lines, collect electricity generated at the wind project and transport it to larger "network" transmission lines, where the electricity can travel across long distances to the locations where it is needed. Finally, smaller distribution lines deliver electricity directly to your town, home or business. You can learn more about transmission(Opens in a new window) here.
+
