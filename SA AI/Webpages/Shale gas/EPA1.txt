@@ -1,0 +1,21 @@
+﻿Hydraulic Fracturing for Oil and Gas: Impacts from the Hydraulic Fracturing Water Cycle on Drinking Water Resources in the United States (Final Report)
+Notice
+EPA is announcing the availability of the final report, Hydraulic Fracturing for Oil and Gas: Impacts from the Hydraulic Fracturing Water Cycle on Drinking Water Resources in the United States. 
+
+Abstract
+This final report provides a review and synthesis of available scientific information concerning the relationship between hydraulic fracturing activities and drinking water resources in the United States.
+The report is organized around activities in the hydraulic fracturing water cycle and their potential to impact drinking water resources.  The stages include: (1) acquiring water to be used for hydraulic fracturing (Water Acquisition), (2) mixing the water with chemical additives to prepare hydraulic fracturing fluids (Chemical Mixing), (3) injecting the hydraulic fracturing fluids into the production well to create fractures in the targeted production zone (Well Injection), (4) collecting the wastewater that returns through the well after injection (Produced Water Handling), and (5) managing the wastewater via disposal or reuse methods (Wastewater Disposal and Reuse).
+EPA found scientific evidence that hydraulic fracturing activities can impact drinking water resources under some circumstances. The report identifies certain conditions under which impacts from hydraulic fracturing activities can be more frequent or severe: 
+    • Water withdrawals for hydraulic fracturing in times or areas of low water availability, particularly in areas with limited or declining groundwater resources; 
+    • Spills during the handling of hydraulic fracturing fluids and chemicals or produced water that result in large volumes or high concentrations of chemicals reaching groundwater resources; 
+    • Injection of hydraulic fracturing fluids into wells with inadequate mechanical integrity, allowing gases or liquids to move to groundwater resources;
+    • Injection of hydraulic fracturing fluids directly into groundwater resources; 
+    • Discharge of inadequately treated hydraulic fracturing wastewater to surface water; and
+    • Disposal or storage of hydraulic fracturing wastewater in unlined pits resulting in contamination of groundwater resources.
+Data gaps and uncertainties limited EPA’s ability to fully assess the potential impacts on drinking water resources locally and nationally. Because of these data gaps and uncertainties, it was not possible to fully characterize the severity of impacts, nor was it possible to calculate or estimate the national frequency of impacts on drinking water resources from activities in the hydraulic fracturing water cycle. 
+EPA’s report advances the scientific understanding of hydraulic fracturing’s impact on drinking water resources, and can inform decisions by federal, state, tribal, and local officials; industry; and communities to protect drinking water resources now and in the future.
+
+
+Citation
+U.S. EPA. Hydraulic Fracturing for Oil and Gas: Impacts from the Hydraulic Fracturing Water Cycle on Drinking Water Resources in the United States (Final Report). U.S. Environmental Protection Agency, Washington, DC, EPA/600/R-16/236F, 2016.
+

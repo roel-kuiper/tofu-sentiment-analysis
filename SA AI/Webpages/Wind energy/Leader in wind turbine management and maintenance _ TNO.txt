@@ -1,0 +1,15 @@
+﻿Leader in wind turbine management and maintenance 
+15 years ago, ECN part of TNO was one of the first to think about innovation in management and maintenance. While others still focused mainly on the construction of wind turbines, ECN part of TNO investigated how the offshore wind turbines could remain in operation as efficiently as possible. The models that have been developed are among the most advanced in the world. 
+The result of these efforts is that wind turbines produce as much energy as possible and as cheaply as possible at the lowest possible cost throughout their service life - from day one to their disposal.
+
+
+
+Managing and maintaining offshore wind turbines is a major challenge, especially in large wind farms. ECN part of TNO has developed software tools that enable owners to calculate the extent of the damage if, for example, a cable connecting the park to the mainland breaks down or a lightning strike occurs, and how all conceivable defects can be remedied as efficiently as possible. In large wind farms with 100 or more turbines, maintenance without processing power is now impossible.
+Maintenance-friendly
+Taiwan, where ECN part of TNO is also active, is known for its typhoons. Five to six months of the year, these severe storms hit the island. During these periods, maintenance at sea is virtually impossible. These exceptional circumstances also had an impact on the design of the wind turbines. 
+
+New turbine models can now cope with a lot of turbulent weather conditions. The somewhat older models - some 10-15 per cent in total - sometimes suffer damage during heavy weather, despite all the precautions taken. In most cases, repair is still possible: the blades or the head are replaced, and then immediately by more advanced and better quality parts. Nowadays, wind turbines are built for 25 to 30 years.
+Extended service life
+ECN part of TNO has also designed tools to calculate how much maintenance a turbine needs on the basis of a few measured wind turbines, and how this will work out for the rest of the wind turbines in the park. Calculations are made of the load capacity. This varies according to the wind force on the blades. 
+
+That is useful knowledge. Some turbines at specific locations in the parks will be subjected to lighter loads and may therefore require less maintenance. Most turbines run 80 percent of their time at 80 percent power: in the event of a major storm, the blades now turn first partly out of the wind to continue generating energy in a lower position for as long as possible, until they switch off for only a very short time at peak to avoid causing a massive power dip in the energy system.

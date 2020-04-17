@@ -1,9 +1,0 @@
-
-Boosting Speed and Accuracy of Wind Plant Optimization Model
-March 26, 2020
-Home » Boosting Speed and Accuracy of Wind Plant Optimization Model
-
-The National Renewable Energy Laboratory (NREL) has released a new version of its FLOw Redirection and Induction in Steady State (FLORIS) model for wind plant performance optimization. FLORIS, which was co-developed by NREL and the Delft University of Technology, is an open-source platform available for download and collaborative development. The latest update leverages new modeling tools to enhance FORIS’s ability to accurately design and analyze wind plant control strategies for larger arrays of turbines. Since 2018, more than 2,000 users have accessed the tool to inform turbine operation as well as wind plant design. By optimizing flow control strategies like wake steering, FLORIS enables existing wind energy facilities to improve productivity and increase profits.
-
-For more information on the new model, see the FLORIS 1.1.14 documentation or read the new discussion paper in Wind Energy Science.
-

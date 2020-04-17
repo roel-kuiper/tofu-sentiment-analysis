@@ -1,0 +1,45 @@
+﻿Geothermal Heating and Cooling Technologies
+Geothermal comes from the Greek words geo (Earth) and therme (heat).
+Geothermal technology harnesses the Earth’s heat. Just a few feet below the surface, the Earth maintains a near-constant temperature, in contrast to the summer and winter extremes of the ambient air above ground. Farther below the surface, the temperature increases at an average rate of approximately 1°F for every 70 feet in depth. In some regions, tectonic and volcanic activity can bring higher temperatures and pockets of superheated water and steam much closer to the surface.
+Can I use geothermal technology where I live?
+Ground source heat pumps can be used anywhere in the United States, while direct use and deep systems are currently limited to regions with naturally high geothermal activity. 
+    • The National Renewable Energy Laboratory provides maps that show the potential for direct use and deep geothermal systems where you live. 
+    • The U.S. Department of Energy provides additional geothermal potential maps. 
+Three main types of technologies take advantage of Earth as a heat source:
+    • Ground source heat pumps 
+    • Direct use geothermal 
+    • Deep and enhanced geothermal systems 
+Geothermal energy is considered a renewable resource. Ground source heat pumps and direct use geothermal technologies serve heating and cooling applications, while deep and enhanced geothermal technologies generally take advantage of a much deeper, higher temperature geothermal resource to generate electricity.
+    • For more information on the environmental benefits and effects of geothermal energy, visit EPA’s Clean Energy website. 
+
+Ground Source Heat Pumps
+A ground source heat pump takes advantage of the naturally occurring difference between the above-ground air temperature and the subsurface soil temperature to move heat in support of end uses such as space heating, space cooling (air conditioning), and even water heating. A ground source or geoexchange system consists of a heat pump connected to a series of buried pipes. One can install the pipes either in horizontal trenches just below the ground surface or in vertical boreholes that go several hundred feet below ground. The heat pump circulates a heat-conveying fluid, sometimes water, through the pipes to move heat from point to point.
+
+If the ground temperature is warmer than the ambient air temperature, the heat pump can move heat from the ground to the building. The heat pump can also operate in reverse, moving heat from the ambient air in a building into the ground, in effect cooling the building. Ground source heat pumps require a small amount of electricity to drive the heating/cooling process. For every unit of electricity used in operating the system, the heat pump can deliver as much as five times the energy from the ground, resulting in a net energy benefit.  Geothermal heat pump users should be aware that in the absence of using renewable generated electricity to drive the heating/cooling process (e.g., modes) that geothermal heat pump systems may not be fully fossil-fuel free (e.g., renewable-based). 
+How It Works
+The steps below describe how a heat pump works in “heating mode”—taking heat from the ground and delivering it to a building—and “cooling mode,” which removes heat from the building and transfers it to the ground.
+
+    1. Circulation: The above-ground heat pump moves water or another fluid through a series of buried pipes or ground loops. 
+    2. Heat absorption: As the fluid passes through the ground loop, it absorbs heat from the warmer soil, rock, or ground water around it. 
+    3. Heat exchange and use: The heated fluid returns to the building where it used for useful purposes, such as space or water heating. The system uses a heat exchanger to transfer heat into the building’s existing air handling, distribution, and ventilation system, or with the addition of a desuperheater it can also heat domestic water. 
+    4. Recirculation: Once the fluid transfers its heat to the building, it returns at a lower temperature to the ground loop to be heated again. This process is repeated, moving heat from one point to another for the user’s benefit and comfort. 
+The above-ground heat pump is relatively inexpensive, with underground installation of ground loops (piping) accounting for most of the system’s cost. Heat pumps can support space heating and cooling needs in almost any part of the country, and they can also be used for domestic hot water applications. Increasing the capacity of the piping loops can scale this technology for larger buildings or locations where space heating and cooling, as well as water heating, may be needed for most of the year.
+Direct Use Geothermal
+
+Direct use geothermal systems use groundwater that is heated by natural geological processes below the Earth’s surface. This water can be as hot as 200°F or more. Bodies of hot groundwater can be found in many areas with volcanic or tectonic activity. In locations such as Yellowstone National Park and Iceland, these groundwater reservoirs can reach the surface, creating geysers and hot springs. One can pump hot water from the surface or from underground for a wide range of useful applications.
+How It Works
+    1. Pumping: To tap into hot ground water, a well is drilled. A pumping system may be installed, although in some cases, hot water or steam may rise up through the well without active pumping. 
+    2. Delivery: Hot water or steam can be used directly in a variety of applications, or it can be cycled through a heat exchanger. 
+    3. Refilling: Depending on the use requirements of the system and the conditions of the site, the ground water aquifer may need to be replenished with water from the surface. In some cases, the movement of ground water might refill the aquifer naturally. 
+The water from direct geothermal systems is hot enough for many applications, including large-scale pool heating; space heating, cooling, and on-demand hot water for buildings of most sizes; district heating (i.e., heat for multiple buildings in a city); heating roads and sidewalks to melt snow; and some industrial and agricultural processes. Direct use takes advantage of hot water that may be just a few feet below the surface, and usually less than a mile deep. The shallow depth means that capital costs are relatively small compared with deeper geothermal systems, but this technology is limited to regions with natural sources of hot groundwater at or near the surface.
+Deep and Enhanced Geothermal Systems
+Deep geothermal systems use steam from far below the Earth’s surface for applications that require temperatures of several hundred degrees Fahrenheit. These systems typically inject water into the ground through one well and bring water or steam to the surface through another. Other variations can capture steam directly from underground (“dry steam”). Unlike ground source heat pumps or direct use geothermal systems, deep geothermal projects can involve drilling a mile or more below the Earth’s surface. At these depths, high pressure keeps the water in a liquid state even at temperatures of several hundred degrees Fahrenheit.
+How It Works
+
+    1. Pumping: Hot water or steam is pumped up through a deep well. As the water rises to the surface, the pressure drops and the water vaporizes into superheated steam that can be used for high-temperature processes. 
+    2. Delivery: The heat from the hot water or steam can be used to heat a secondary fluid (a “binary” process), or the hot water or steam can be used directly. 
+    3. Recirculation: Once the heat is transferred to the delivery system, the now-cooler water is pumped back underground. 
+    4. Dispersal: Unlike ground source heat pumps, used ground water in this case is simply injected and allowed to disperse back into the ground, rather than being pumped through a closed loop of pipes. 
+
+Deep geothermal sources provide efficient, clean heat for industrial processes and some large-scale commercial and agricultural uses. In addition, steam can be used to spin a turbine and generate electricity. Although geothermal steam requires no fuel and low operational costs, the initial capital costs—especially drilling test wells and production wells—can be financially challenging. Steam resources that are economical to tap into are currently limited to regions with high geothermal activity, but research is underway to develop enhanced geothermal systems with much deeper wells that take advantage of the Earth’s natural temperature gradient and can potentially be constructed anywhere. Enhanced systems can use hydraulic fracturing techniques to engineer subsurface reservoirs that allow water to be pumped into and through otherwise dry or impermeable rock.
+
