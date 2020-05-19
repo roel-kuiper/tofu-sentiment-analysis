@@ -1,8 +1,8 @@
 # tofu-sentiment-analysis
 
-Difference in performance of generic sentiment analysis compared to topic specific sentiment analysis. Results will be used for the TOFU project.
-
 ## What is it?
+
+Difference in performance of generic sentiment analysis compared to topic specific sentiment analysis. Results will be used for the TOFU project.
 
 ## What is it supposed to do?
 
@@ -11,10 +11,10 @@ Difference in performance of generic sentiment analysis compared to topic specif
 Download the repository
 
 ```
-git clone TODO
+git clone https://github.com/roel-kuiper/tofu-sentiment-analysis.git
 ```
 
-The models can be downloaded from:
+The models need to be downloaded from:
 
 ```
 a link
@@ -53,15 +53,9 @@ Environment frame: 0.0%
 - - - - - - - - - - - - - - - -
 ```
 
-### Predicting on WUR encoded data
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
 ### Performance evaluation
+
+The accuracy of the models was tested by predicting on labeled data provided by the WUR researchers at the TOFU project. The specs of my laptop: TODO
 
 ## Built With
 
