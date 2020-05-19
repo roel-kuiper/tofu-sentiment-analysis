@@ -8,49 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites/Requirements
 
-Libraries used for this repository
 
-General libraries:
-
-```
-numpy
-pandas
-glob
-os
-string
-time
-```
-
-LSTM exclusive:
-
-```
-gensim
-tensorflow
-keras
-
-```
-
-(Distil)BERT exclusive:
-
-```
-[ktrain](https://github.com/ktrain)
-
-```
-
-RoBERTa exclusive:
-```
-[simpletransformers](https://github.com/simpletransformers)
-
-```
-
-Data augmentation and labeling functions exclusive:
-
-```
-textblob
-nltk
-snorkel
-re
-```
 
 
 
@@ -99,14 +57,43 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+Libraries used in this repository
 
+General libraries:
+
+* numpy
+* pandas
+* glob
+* os
+* string
+* time
+
+LSTM exclusive:
+
+* gensim
+* tensorflow
+* keras
+
+(Distil)BERT exclusive:
+
+* [ktrain](https://github.com/ktrain)
+
+
+RoBERTa exclusive:
+
+* [simpletransformers](https://github.com/simpletransformers)
+
+
+Data augmentation and labeling functions exclusive:
+
+* textblob
+* nltk
+* snorkel
+* re
 
 ## Author
 
-* **Roel Kuiper** - [roel-kuiper](https://github.com/roel-kuiper)
+* [Roel Kuiper](https://github.com/roel-kuiper)
 
 
 ## Special thanks to:
