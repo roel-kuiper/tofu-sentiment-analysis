@@ -91,5 +91,5 @@ Data augmentation and labeling functions exclusive:
 * [Prof. Paul Groth](https://github.com/pgroth)
 * [Dr. Tamara Metze-Burghouts](https://www.linkedin.com/in/tamara-metze-0a9b354/)
 * [Dr. Elaine Texeira Rabello](https://www.linkedin.com/in/erabello/)
-* [Eduardo Rojas Padilla]
+* Eduardo Rojas Padilla
 * [Efrat Gommeh](https://www.linkedin.com/in/efrat-gommeh-86267313/)
