@@ -23,64 +23,7 @@ a link
 
 ## Running the tool
 
-Demo of tool, with best performing model (RoBERTa):
-```
-from simpletransformers.classification import ClassificationModel
-import pandas as pd
-import glob
-
-# return the predicted labels
-def analyse(article):
-    paragraphs = [par for par in article.split('\n') if str(par) != '' and len(par)>75]
-    sen, raw_sen = sentiment_model.predict(paragraphs)
-    frame, raw_frame = frame_model.predict(paragraphs)
-    eco, hea, env = get_credible(raw_frame, frame)
-    sen_score = round(sum(sen)/len(sen)*100,1)
-    return sen_score, eco, hea, env
-
-# returns the frame scores for confident predictions only
-def get_credible(raw_f, f):
-    cred = [f[i] for i in range(len(f)) if raw_f[i][f[i]] > 2]
-    eco = get_per(cred, 0)
-    hea = get_per(cred, 1)
-    env = get_per(cred, 2)
-    return eco, hea, env
-
-# percentage calculater - probably redundant and more easy to do
-def get_per(l, n):
-    try:
-        tmp = round(l.count(n)/len(l)*100,1)
-    except:
-        tmp = 0
-    return tmp
-
-# load models
-sentiment_model = ClassificationModel(
-    "roberta",
-    "models/sentiment/RoBERTa/outputs/",
-    use_cuda=False
-)
-
-frame_model = ClassificationModel(
-    "roberta",
-    "models/frame/RoBERTa/outputs/",
-    use_cuda=False
-)
-
-# predict
-files = glob.glob('articles/*')
-
-for file in files:
-    article = open(file,'r').read()
-    s_score, eco_score, hea_score, env_score = analyse(article)
-    print('\n- - - - - - - - - - - - - - - -\n{}\n'.format(file))
-    print('Sentiment: {}%'.format(s_score))
-    print('\n- - - - - - - - - - - - - - - -\n')
-    print('Economic frame: {}%\nHealth frame: {}%\nEnvironment frame: {}%'.format(eco_score, hea_score, env_score))
-    print('\n- - - - - - - - - - - - - - - -\n')
-```
-
-Running this demo will output the following results:
+For all trained models a simple demo can be found under [predicting](https://github.com/roel-kuiper/tofu-sentiment-analysis/predicting). The best performing model is RoBerta, running this [demo](https://github.com/roel-kuiper/tofu-sentiment-analysis/predicting/RoBERTa predicting.ipynb)) will output the following results:
 
 ```
 - - - - - - - - - - - - - - - -
