@@ -64,9 +64,6 @@ General libraries:
 * numpy
 * pandas
 * glob
-* os
-* string
-* time
 
 LSTM exclusive:
 
