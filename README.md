@@ -2,12 +2,11 @@
 
 Difference in performance of generic sentiment analysis compared to topic specific sentiment analysis. Results will be used for the TOFU project.
 
-## Getting Started
+## What is it?
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## What is it supposed to do?
 
-
-### Installing
+## Installing
 
 Download the repository
 
@@ -23,7 +22,8 @@ a link
 
 ## Running the tool
 
-For all trained models a simple demo can be found under [predicting](https://github.com/roel-kuiper/tofu-sentiment-analysis/predicting). The best performing model is RoBerta, running this [demo](https://github.com/roel-kuiper/tofu-sentiment-analysis/blob/master/predicting/RoBERTa%20predicting.ipynb) will output the following results:
+For all trained models a simple demo can be found under [predicting](https://github.com/roel-kuiper/tofu-sentiment-analysis/predicting). 
+The best performing model is RoBerta, running this [demo](https://github.com/roel-kuiper/tofu-sentiment-analysis/blob/master/predicting/RoBERTa%20predicting.ipynb) will output the following results:
 
 ```
 - - - - - - - - - - - - - - - -
@@ -53,7 +53,7 @@ Environment frame: 0.0%
 - - - - - - - - - - - - - - - -
 ```
 
-### Break down into end to end tests
+### Predicting on WUR encoded data
 
 Explain what these tests test and why
 
@@ -61,17 +61,7 @@ Explain what these tests test and why
 Give an example
 ```
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+### Performance evaluation
 
 ## Built With
 
