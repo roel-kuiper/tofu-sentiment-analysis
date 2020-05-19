@@ -1,0 +1,1 @@
+another major advantage for crispr is that it can be used to target multiple genes at the same time by adding multiple guide rna . this capability can speed up the gene editing process compared to zfn and talen .

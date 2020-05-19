@@ -1,0 +1,1 @@
+the use of a cas9 enzyme that will only cut a single strand of the target dna rather than the double strand . this means that two cas9 enzymes and two guide rnas have to be in the same place for the cut to be made . this reduces the probability of the cut being made in the wrong place .

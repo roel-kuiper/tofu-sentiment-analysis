@@ -1,0 +1,1 @@
+In 2012, scientists from the University of California, Berkeley, published a groundbreaking paper showing they were able to “reprogramme” the CRISPR-Cas immune system to edit genes at will. CRISPR-Cas9 uses a specific Cas protein and a hybrid RNA that can identify and edit any gene sequence. The possibilities are huge.

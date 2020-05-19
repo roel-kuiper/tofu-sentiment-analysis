@@ -1,0 +1,1 @@
+the design of better , more specific guide rnas using our knowledge of the dna sequence of the genome and the ' off - target ' behaviour of different versions of the cas9 - grna complex .

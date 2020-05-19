@@ -1,0 +1,1 @@
+commercial tests for gmos currently rely on the detection of foreign dna or protein , so new gmos that do not contain transgenes cannot be tested in this way

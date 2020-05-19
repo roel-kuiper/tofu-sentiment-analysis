@@ -1,0 +1,1 @@
+the testing covered a range of the wind plant capability to provide frequency and voltage support , including ramping , regulation up and down following caiso dispatch signals , primary frequency response , and reactive power and voltage control even when wind is not blowing .

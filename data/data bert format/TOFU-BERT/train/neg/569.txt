@@ -1,0 +1,1 @@
+the non - gmo project uses a risk matrix to determine the standard high - risk list . as monitored gmo crops / inputs become more available , they are entered into the matrix ; when their total risk score reaches a predetermined threshold , they are recommended for addition to the high - risk list .

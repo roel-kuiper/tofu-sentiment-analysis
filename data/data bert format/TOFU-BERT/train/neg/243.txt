@@ -1,0 +1,1 @@
+however , there are some legitimate potential drawbacks for crispr . in january 2018 , a stanford university team posted a paper on biorxiv that discussed their research showing that many people could have antibodies for the cas9 enzyme . since the purpose of antibodies is to fight against foreign substances in the blood , this could present a challenge for using crispr - cas9 .

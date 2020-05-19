@@ -1,0 +1,1 @@
+in short , crispr lists the dna sequences to target , and then cas9 does the cutting . scientists just need to programme crispr with the right code , and cas9 does the rest .

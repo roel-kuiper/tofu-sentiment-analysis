@@ -1,0 +1,1 @@
+ecn part of tno has also designed tools to calculate how much maintenance a turbine needs on the basis of a few measured wind turbines , and how this will work out for the rest of the wind turbines in the park . calculations are made of the load capacity . this varies according to the wind force on the blades .

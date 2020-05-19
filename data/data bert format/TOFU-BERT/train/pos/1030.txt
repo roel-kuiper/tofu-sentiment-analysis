@@ -1,0 +1,1 @@
+4 . recirculation : once the fluid transfers its heat to the building , it returns at a lower temperature to the ground loop to be heated again . this process is repeated , moving heat from one point to another for the user benefit and comfort .

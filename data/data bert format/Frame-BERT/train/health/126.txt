@@ -1,0 +1,1 @@
+    The problem with this is that a sequence with, for example, 19 of the 20 complementary bases may exist somewhere completely different in the genome. This means there is potential for the guide RNA to bind there instead of or as well as at the target sequence. 

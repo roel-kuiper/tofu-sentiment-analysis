@@ -1,0 +1,1 @@
+As mentioned previously, Cas9 can only recognise genetic sequences of around 20 bases long, meaning that longer sequences cannot be targeted. More significantly, the enzyme still sometimes cuts in the wrong place. 

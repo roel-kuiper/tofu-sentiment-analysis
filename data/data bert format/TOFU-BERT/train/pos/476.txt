@@ -1,0 +1,1 @@
+crispr - cas9 is a genome editing tool that is able to " cut " dna in a targeted fashion , allowing scientists to accurately edit the building blocks of life . you will likely see it mentioned alongside the slightly - less - famous duo of crispr - cas1 and crispr - cas2 - both of which splice " cut " pieces of dna into a bacteria own genome ( more on that later ) .
