@@ -6,11 +6,6 @@ Difference in performance of generic sentiment analysis compared to topic specif
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites/Requirements
-
-
-
-
 
 ### Installing
 
@@ -73,13 +68,11 @@ LSTM exclusive:
 
 (Distil)BERT exclusive:
 
-* [ktrain](https://github.com/ktrain)
-
+* [ktrain](https://github.com/amaiya/ktrain)
 
 RoBERTa exclusive:
 
-* [simpletransformers](https://github.com/simpletransformers)
-
+* [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers)
 
 Data augmentation and labeling functions exclusive:
 
@@ -95,9 +88,8 @@ Data augmentation and labeling functions exclusive:
 
 ## Special thanks to:
 
-* Prof. Paul Groth
-* Prof. Tamara Metze-Burghouts
-* Prof. Elaine Texeira Rabello
-* Eduardo Rojas Padilla
-* Efrat Gommeh
-* Prof. Sander van Splunter
+* [Prof. Paul Groth](https://github.com/pgroth)
+* [Dr. Tamara Metze-Burghouts](https://www.linkedin.com/in/tamara-metze-0a9b354/)
+* [Dr. Elaine Texeira Rabello](https://www.linkedin.com/in/erabello/)
+* [Eduardo Rojas Padilla]
+* [Efrat Gommeh](https://www.linkedin.com/in/efrat-gommeh-86267313/)
