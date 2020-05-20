@@ -20,6 +20,35 @@ The models need to be downloaded from:
 a link
 ```
 
+### Requirements
+
+General libraries:
+
+* numpy
+* pandas
+* glob
+
+LSTM exclusive:
+
+* gensim
+* tensorflow
+* keras
+
+(Distil)BERT exclusive:
+
+* [ktrain](https://github.com/amaiya/ktrain)
+
+RoBERTa exclusive:
+
+* [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers)
+
+Data augmentation and labeling functions exclusive:
+
+* textblob
+* nltk
+* snorkel
+* re
+
 ## Running the tool
 
 For all trained models a simple demo can be found under [predicting](https://github.com/roel-kuiper/tofu-sentiment-analysis/predicting). 
@@ -56,37 +85,6 @@ Environment frame: 0.0%
 ### Performance evaluation
 
 The accuracy of the models was tested by predicting on labeled data provided by the WUR researchers at the TOFU project. The specs of my laptop: TODO
-
-## Built With
-
-Libraries used in this repository
-
-General libraries:
-
-* numpy
-* pandas
-* glob
-
-LSTM exclusive:
-
-* gensim
-* tensorflow
-* keras
-
-(Distil)BERT exclusive:
-
-* [ktrain](https://github.com/amaiya/ktrain)
-
-RoBERTa exclusive:
-
-* [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers)
-
-Data augmentation and labeling functions exclusive:
-
-* textblob
-* nltk
-* snorkel
-* re
 
 ## Author
 
