@@ -104,9 +104,13 @@ The accuracy of the models was tested by predicting on labeled data provided by 
 
 ![](evaluation/accuracy.png)
 
-#### Failed additions
+#### Additions that did not improve performance
 
+##### Data augmentation
 
+##### Labeling functions
+
+##### Cleaning data
 
 ## Author
 
