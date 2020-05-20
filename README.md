@@ -86,6 +86,10 @@ Environment frame: 0.0%
 
 The accuracy of the models was tested by predicting on labeled data provided by the WUR researchers at the TOFU project. The specs of my laptop: TODO
 
+![](evaluation/accuracy.png)
+![](evaluation/inference.png)
+![](evaluation/trainingtime.png)
+
 ## Author
 
 * [Roel Kuiper](https://github.com/roel-kuiper)
