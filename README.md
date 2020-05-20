@@ -1,10 +1,27 @@
 # tofu-sentiment-analysis
 
-## What is it?
+## What is the TOFU project?
 
-Difference in performance of generic sentiment analysis compared to topic specific sentiment analysis. Results will be used for the TOFU project.
+The TOFU project aims to better understand and democratize the mechanisms underlying so termed
+TOFUs (travelling of framed facts and uncertainties). In order to improve responsible research and
+innovation, they are developing two digital tools to study, reflect on, and experiment with TOFUs, and
+their governance. They are co-creating these reflective tools with stakeholders of possibly controversial technological innovations in the transition to sustainable energy and to sustainable food. The tools are:
+(1) The ‘TOFU-crawler’ to map networks of TOFUs, and to analyze how they travel, which become
+dominant, and what governance strategies of national, international and transnational actors are to cope with these TOFUs.
+(2) The digital ‘dashboard of imagination’ that is a reflective instrument to help industry, govern-
+mental actors, activists and NGO’s, but also scholars in responsible research and innovation to improve their interactions by addressing the TOFUs more explicitly and reflectively to enhance democratic technological innovations.
 
-## What is it supposed to do?
+### What is this repository adding to the TOFU project?
+
+Currently the TOFU tools work together as follows:
+(1) The ’TOFU-crawler’ scrapes websites of relevant actors to find articles concerning a domain a
+researcher is interested in, for example: wind energy. The scraper finds all relevant pages/articles based
+on keywords provided by the researchers and passes the images and text of the page to the ’dashboard
+of imagination’.
+(2) The ’dashboard of imagination’ displays all the images the crawler provided it with on a scale
+of ’Dream’ to ’Nightmare’. ’Dream’ being that the author of the article thinks the technology or novel
+food is a dream come while true, while ’Nightmare’ means that the author thinks the technology is the
+worst thing that possibly could have happened. This is were this repository comes in, the ranking of images is done by analysing the textual context, the article, in which an image is displayed. The analysing is done via sentiment analysis, a binary text classification task. In addition to the ranking of the images, frames used in the articles will be analysed as well, the frames WUR are interested in right now are: economic, health, environmental. This will be a multi-label text classification task. So on the dashboard every image gets a sentiment score and a frame score.
 
 ## Installing
 
@@ -14,11 +31,7 @@ Download the repository
 git clone https://github.com/roel-kuiper/tofu-sentiment-analysis.git
 ```
 
-The models need to be downloaded from:
-
-```
-a link
-```
+The models need to be downloaded, from [this](https://google.com) location, in order for the tool to work.
 
 ### Requirements
 
