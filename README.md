@@ -29,7 +29,7 @@ Download the repository
 git clone https://github.com/roel-kuiper/tofu-sentiment-analysis.git
 ```
 
-The models need to be downloaded, from [this](https://google.com) location, in order for the tool to work.
+The models need to be downloaded, from [this](https://drive.google.com/open?id=17s48ApEm3b6-MvCgT_HDNANQASBH6o27) location, and placed in the predicting directory (!) in order for the tool to work.
 
 ### Requirements
 
@@ -95,11 +95,18 @@ Environment frame: 0.0%
 
 ### Performance evaluation
 
-The accuracy of the models was tested by predicting on labeled data provided by the WUR researchers at the TOFU project. The specs of my laptop: TODO
+The accuracy of the models was tested by predicting on labeled data provided by the WUR researchers at the TOFU project ([demonstration](evaluation/predictwur.ipynb)). Unfortunately, my laptop does not have a GPU, therefore the training time and speed of inference of all transformer based models will be slower than normal. So if we keep that in mind we can still see that, as expected, more extensively pretrained models take longer to train additional data on, but at the same time also perform better. For the TOFU project however speed of inference is not as important, since the inferencing can de done during the scraping pause. 
+
+
+![](evaluation/trainingtime.png)
+
+![](evaluation/inference.png)
 
 ![](evaluation/accuracy.png)
-![](evaluation/inference.png)
-![](evaluation/trainingtime.png)
+
+#### Failed additions
+
+
 
 ## Author
 
@@ -111,5 +118,6 @@ The accuracy of the models was tested by predicting on labeled data provided by 
 * [Prof. Paul Groth](https://github.com/pgroth)
 * [Dr. Tamara Metze-Burghouts](https://www.linkedin.com/in/tamara-metze-0a9b354/)
 * [Dr. Elaine Texeira Rabello](https://www.linkedin.com/in/erabello/)
-* Eduardo Rojas Padilla
 * [Efrat Gommeh](https://www.linkedin.com/in/efrat-gommeh-86267313/)
+* Eduardo Rojas Padilla
+
