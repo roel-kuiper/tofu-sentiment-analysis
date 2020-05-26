@@ -107,10 +107,13 @@ The accuracy of the models was tested by predicting on labeled data provided by 
 #### Additions that did not improve performance
 
 ##### Data augmentation
+TODO
 
 ##### Labeling functions
+TODO
 
 ##### Cleaning data
+TODO
 
 ## Author
 
