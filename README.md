@@ -104,16 +104,19 @@ The accuracy of the models was tested by predicting on labeled data provided by 
 
 ![](evaluation/accuracy.png)
 
-#### Additions that did not improve performance
+#### Additions
 
 ##### Data augmentation
 TODO
 
 ##### Labeling functions
-TODO
+In order to easily implement new topics to the tool labeling functions were tested. Potentially reducing the time required to label a training set. The TOFU researchers provided bins of words that are relevant to the frames used in this project. Combining the bins of words with the labeling functions I attempted to create sufficient labeling for the frame and sentiment analysis.
 
+![](evaluation/lf.png)
+
+As of right now, I do not feel that the labels can be compared to the hand labeled data. 
 ##### Cleaning data
-TODO
+The data was cleaned to work better with BERT based models. TODO: link
 
 ## Author
 
