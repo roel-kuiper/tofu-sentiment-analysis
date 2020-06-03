@@ -2,7 +2,7 @@
 
 ## What is the TOFU project?
 
-The TOFU project aims to better understand and democratize the mechanisms underlying so termed
+The [TOFU](https://www.wur.nl/en/Research-Results/Chair-groups/Social-Sciences/Public-Administration-and-Policy-Group/Research/Research-Projects-of-the-Public-Administration-and-Policy-Group/TOFU-Traveling-of-Framed-Facts-and-Uncertainties.htm) project aims to better understand and democratize the mechanisms underlying so termed
 TOFUs (travelling of framed facts and uncertainties). In order to improve responsible research and
 innovation, they are developing two digital tools to study, reflect on, and experiment with TOFUs, and
 their governance. They are co-creating these reflective tools with stakeholders of possibly controversial technological innovations in the transition to sustainable energy and to sustainable food. The tools are: <br />
