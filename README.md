@@ -114,14 +114,14 @@ Graphics: Intel® HD Graphics 520 (Skylake GT2)
 #### Additions
 
 ##### Data augmentation
-Since we are working with a small dataset it is interesting to look at options to artificially enlarge the dataset to improve accuracy. Unfortunately since BERT based models are massively pretrained data augmentation did not improve performance.
+Since we are working with a small dataset it is interesting to look at options to artificially enlarge the dataset to improve accuracy. Unfortunately since BERT based models are massively pretrained data augmentation did not improve performance. [Notebook](additions/augmentation)
 
 ##### Labeling functions
 In order to easily implement new topics to the tool labeling functions were tested. Potentially reducing the time required to label a training set. The TOFU researchers provided bins of words that are relevant to the frames used in this project. Combining the bins of words with the labeling functions I attempted to create sufficient labeling for the frame and sentiment analysis.
 
 ![](evaluation/lf.png)
 
-As of right now, I do not feel that the labels can be compared to the hand labeled data. This means that if an additional frame needs to be added to the tool, training data will be hand labeled.
+As of right now, I do not feel that the labels can be compared to the hand labeled data. This means that if an additional frame needs to be added to the tool, training data will be hand labeled. [Notebook](additions/labeling functions)
 ##### Cleaning data
 The data was cleaned to work better with BERT based models, [this](https://www.kaggle.com/kyakovlev/preprocessing-bert-public) notebook was used to clean the data.
 ## Author
