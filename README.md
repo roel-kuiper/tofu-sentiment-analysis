@@ -123,7 +123,7 @@ In order to easily implement new topics to the tool labeling functions were test
 
 As of right now, I do not feel that the labels can be compared to the hand labeled data. This means that if an additional frame needs to be added to the tool, training data will be hand labeled. [Notebook](https://github.com/roel-kuiper/tofu-sentiment-analysis/tree/master/additions/labeling%20functions)
 ##### Cleaning data
-The data was cleaned to work better with BERT based models, [this](https://www.kaggle.com/kyakovlev/preprocessing-bert-public) notebook was used to clean the data.
+The data was cleaned to work better with BERT based models, this [notebook](https://www.kaggle.com/kyakovlev/preprocessing-bert-public) was used to clean the data.
 ## Author
 
 * [Roel Kuiper](https://github.com/roel-kuiper)
