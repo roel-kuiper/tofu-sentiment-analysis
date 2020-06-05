@@ -1,5 +1,7 @@
 # tofu-sentiment-analysis
 
+This repository is for the sentiment analysis part of the [tool](scraper.pgrond.nl) developed for the TOFU project, led by [Dr. Tamara Metze-Burghouts](https://www.linkedin.com/in/tamara-metze-0a9b354/) of Wageningen University and Research. This project was done as an internship, for european credits, at the University of Amsterdam, supervised by [Prof. dr. Paul Groth](https://github.com/pgroth).
+
 ## What is the TOFU project?
 
 The [TOFU](https://www.wur.nl/en/Research-Results/Chair-groups/Social-Sciences/Public-Administration-and-Policy-Group/Research/Research-Projects-of-the-Public-Administration-and-Policy-Group/TOFU-Traveling-of-Framed-Facts-and-Uncertainties.htm) project aims to better understand and democratize the mechanisms underlying so termed
@@ -30,6 +32,7 @@ git clone https://github.com/roel-kuiper/tofu-sentiment-analysis.git
 ```
 
 The models need to be downloaded, from [this](https://drive.google.com/open?id=17s48ApEm3b6-MvCgT_HDNANQASBH6o27) location, and placed in the predicting directory (!) in order for the tool to work.
+All files can be downloaded as well from [Zenodo](placeholder TODO)
 
 ### Requirements
 
@@ -104,6 +107,10 @@ The accuracy of the models was tested by predicting on labeled data provided by 
 
 ![](evaluation/accuracy.png)
 
+Specs of my laptop:
+Memory: 7,6 GiB
+Processor: Intel® Core™ i5-6200U CPU @ 2.30GHz × 4 
+Graphics: Intel® HD Graphics 520 (Skylake GT2)
 #### Additions
 
 ##### Data augmentation
@@ -124,7 +131,7 @@ The data was cleaned to work better with BERT based models, [this](https://www.k
 
 ## Special thanks to:
 
-* [Prof. Paul Groth](https://github.com/pgroth)
+* [Prof. dr. Paul Groth](https://github.com/pgroth)
 * [Dr. Tamara Metze-Burghouts](https://www.linkedin.com/in/tamara-metze-0a9b354/)
 * [Dr. Elaine Texeira Rabello](https://www.linkedin.com/in/erabello/)
 * [Efrat Gommeh](https://www.linkedin.com/in/efrat-gommeh-86267313/)
