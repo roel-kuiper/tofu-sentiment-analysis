@@ -32,7 +32,7 @@ git clone https://github.com/roel-kuiper/tofu-sentiment-analysis.git
 ```
 
 The models need to be downloaded, from [this](https://drive.google.com/open?id=17s48ApEm3b6-MvCgT_HDNANQASBH6o27) location, and placed in the predicting directory (!) in order for the tool to work.
-All files can be downloaded as well from [Zenodo](placeholder TODO)
+All files can be downloaded as well from [Zenodo](https://zenodo.org/record/3879574O)
 
 ### Requirements
 
